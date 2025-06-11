@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6849b1f03db796ee13b022cc"
+  },
+  "fecha": {
+    "$date": "1970-01-01T00:00:02.004Z"
+  },
+  "descripcion": "cambio de cableado y renovacion de aceite de los rieles",
+  "atraccion": {
+    "$oid": "6848a668ea633d0329e40139"
+  },
+  "empleados_responsables": [
+    {
+      "$oid": "6849b1263db796ee13b022ca"
+    },
+    {
+      "$oid": "6849b1433db796ee13b022cb"
+    }
+  ],
+  "costo_us": 1250
+}]

@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6849fee6637838b9e96dd571"
+  },
+  "nombre": "Juan Jose",
+  "apellido": "Naranjo",
+  "fecha_nacimiento": {
+    "$date": "2000-05-02T00:00:00.000Z"
+  },
+  "email": "juanjo@yahoo.com",
+  "historial_visitas": [
+    {
+      "fecha": {
+        "$date": "2025-05-11T00:00:00.000Z"
+      },
+      "zonas_visitadas": [
+        {
+          "$oid": "6849a2ef3db796ee13b022c7"
+        }
+      ],
+      "atracciones": [
+        {
+          "$oid": "6848a668ea633d0329e40139"
+        }
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "tipo": "anual",
+      "fecha_compra": {
+        "$date": "2025-01-02T00:00:00.000Z"
+      },
+      "precio_us": 12
+    }
+  ]
+}]

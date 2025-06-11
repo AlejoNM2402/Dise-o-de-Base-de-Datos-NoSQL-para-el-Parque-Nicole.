@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6849a6a63db796ee13b022c8"
+  },
+  "nombre": "Jose",
+  "apellido": "Benavides",
+  "cargo": "vigilante",
+  "horario_trabajo": {
+    "Lunes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Martes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Miercoles": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Jueves": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Viernes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    }
+  },
+  "atracciones_asignadas": [
+    {
+      "$oid": "6848a668ea633d0329e40139"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6849b1263db796ee13b022ca"
+  },
+  "nombre": "Juan",
+  "apellido": "Amorocho",
+  "cargo": "mantenimiento",
+  "horario_trabajo": {
+    "Lunes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Martes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Miercoles": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Jueves": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Viernes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    }
+  },
+  "atracciones_asignadas": [
+    {
+      "$oid": "6848a668ea633d0329e40139"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6849b1433db796ee13b022cb"
+  },
+  "nombre": "Rodrigo",
+  "apellido": "Goes",
+  "cargo": "mantenimiento",
+  "horario_trabajo": {
+    "Lunes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Martes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Miercoles": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Jueves": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    },
+    "Viernes": {
+      "entrada": "08:00",
+      "salida": "16:00"
+    }
+  },
+  "atracciones_asignadas": [
+    {
+      "$oid": "6848a668ea633d0329e40139"
+    }
+  ]
+}]

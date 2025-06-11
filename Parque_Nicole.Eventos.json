@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6849ad153db796ee13b022c9"
+  },
+  "nombre": "descuentos montañas rusas",
+  "descripcion": "todas las montañas rusas tendran un desceunto en el precion de la voleteria del 25%",
+  "horario": {
+    "sabado": {
+      "inicio": "10:00",
+      "fin": "16:00"
+    }
+  },
+  "ubicacion": {
+    "$oid": "6849a2ef3db796ee13b022c7"
+  },
+  "empleados_responsables": [
+    {
+      "$oid": "6849a6a63db796ee13b022c8"
+    }
+  ]
+}]

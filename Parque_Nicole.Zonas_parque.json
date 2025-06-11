@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6849a2ef3db796ee13b022c7"
+  },
+  "nombre": "Montaña rusa",
+  "descripcion": "En esta zona se encuentran las montañas rusas",
+  "atracciones": [
+    {
+      "$oid": "6848a668ea633d0329e40139"
+    }
+  ]
+}]

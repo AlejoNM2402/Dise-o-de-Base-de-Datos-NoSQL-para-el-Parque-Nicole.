@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "684a0016637838b9e96dd572"
+  },
+  "tipo": "anual",
+  "precio_us": 12,
+  "fecha_compra": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "fecha_validez": {
+    "$date": "2026-01-02T00:00:00.000Z"
+  },
+  "visitante_asociado": {
+    "$oid": "6849fee6637838b9e96dd571"
+  }
+}]

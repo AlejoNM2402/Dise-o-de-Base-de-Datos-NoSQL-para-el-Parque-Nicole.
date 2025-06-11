@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6848a668ea633d0329e40139"
+  },
+  "nombre": "El giro de la muerte",
+  "tipo": "montaña rusa",
+  "descripción": "Rieles de hasta 300 metros, subidas y bajadas empinadas y giros de 360 gigantes",
+  "altura_minima_requerida_metros": 1.4,
+  "capacidad": 50,
+  "estado": "en mantenimiento",
+  "tiempo_de_espera_promedio_minutos": 30
+}]
