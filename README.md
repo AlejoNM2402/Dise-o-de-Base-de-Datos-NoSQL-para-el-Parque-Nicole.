@@ -3,6 +3,7 @@
 ## 👥 Integrantes
 - Sebastian Mauricio Betancourt
 - Alejandro Naranjo
+- Daniel Trigos
 
 ---
 
@@ -144,14 +145,10 @@ Posible reasignación de atracciones o uso compartido entre zonas → referencia
 ## 🧾 Conclusiones y Desafíos
 
 - ✅ **Decisión de Incrustación vs Referencia:**  
-  Incrustación para datos estáticos y acoplados (como tickets en visitantes). Referencia para datos compartidos o dinámicos (empleados, atracciones).
+  Incrustación para datos estáticos y acoplados. Referencia para datos compartidos.
 
 - 📈 **Escalabilidad:**  
-  Priorización de referencias para entidades con crecimiento/modificación frecuente.
+  Priorización de referencias para entidades con crecimiento y  modificación frecuente.
 
 - ⚠️ **Desafíos:**  
   Modelar historial de visitas fue complejo por combinar incrustación y referencias a múltiples zonas y atracciones.
-
----
-
-🚀 *Modelo diseñado para flexibilidad, rendimiento y escalabilidad en entornos reales de parques de diversiones.*
